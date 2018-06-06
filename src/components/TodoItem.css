@@ -8,7 +8,7 @@
 }
 
 .todo-item:hover {
-  background: #e3fafc;
+  background: #e9ecef;
 }
 
 .todo-item:hover .remove {
@@ -41,6 +41,6 @@
   font-size: 1.5rem;
   line-height: 1rem;
   margin-left: 1rem;
-  color: #3bc9db;
+  color: #40c057;
   font-weight: 800;
 }
